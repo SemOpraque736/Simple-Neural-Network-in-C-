@@ -1,4 +1,4 @@
-# Simple-Neural-Network-in-C-
+# Simple-Neural-Network-in-C#-
 Its my first time making a Code in C#. Its not that good, but im tried.
 Im learned C# a two days ago, and this code will be very simple. This code only have for, console, operations math and variables.
 
