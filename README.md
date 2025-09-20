@@ -2,7 +2,7 @@
 Its my first time making a Code in C#. Its not that good, but im tried.
 Im started learning C# a two days ago, and this code will be very simple. This code only have for, console, operations math and variables.
 
-#Whats the Code do?
+# Whats the Code do?
 Its make a neural network in a simple traning, with a random data and weithgs.
 its have epochs and a simple (1, 8, 1) Neural Mlp.
 
